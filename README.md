@@ -11,7 +11,7 @@ The labubu trend is on a decline, after just a short 3 month period of popularit
 - How has Popmart's stock value been impacted by the virality of the labubu?
 - Does the popularity of blind box coincide with the rise of online gambling casinos?
 
-## Project 2: Can good are prediction markets like Kalshi at seeing the future?
+## Project 2: How good are prediction markets like Kalshi at seeing the future?
 ### Toole:
 - Python (json, requests, pandas, Kalshi API)
 - Jupyter Notebook (Google Colab)
